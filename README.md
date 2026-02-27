@@ -43,7 +43,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📜 License & Copyright
 
-Copyright © 2024-2026 **ntuanvinh**. All rights reserved.
+Copyright © 2026 **ntuanvinh**. All rights reserved.
 
 🚫 **COMMERCIAL USE PROHIBITED**
 This project is licensed under a custom **Non-Commercial License**. You are free to use, study, and modify this project for **personal and educational use only**. 
