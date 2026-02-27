@@ -13,15 +13,6 @@
 - 🤖 **AI-Assisted Development:** Optimized code structures and logic powered by Gemini AI.
 - ⚡ **Modern Stack:** Built with Kotlin and the latest Android Gradle plugins for maximum stability.
 
-## 📸 Screenshots
-
-*(Add your app screenshots here to showcase the UI)*
-<table>
-  <tr>
-    <td><img src="logobaohost.png" width="200" alt="BaoHost Logo"></td>
-    </tr>
-</table>
-
 ## 🛠 Getting Started
 
 ### For Users (APK Installation)
