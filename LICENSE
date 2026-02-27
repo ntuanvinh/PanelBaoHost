@@ -1,21 +1,25 @@
-MIT License
+CUSTOM NON-COMMERCIAL LICENSE
+Project: Panel BaoHost
+Copyright (c) 2024-2026 ntuanvinh
 
-Copyright (c) 2024 ntuanvinh
+1. PERMISSION AND SCOPE
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to view, download, study, and modify the Software for PERSONAL AND EDUCATIONAL PURPOSES ONLY.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. COMMERCIAL RESTRICTIONS
+The Software, including its source code, assets, and compiled binaries (APK), may NOT be used, copied, modified, merged, published, distributed, sublicensed, or sold for COMMERCIAL PURPOSES. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Commercial purposes include, but are not limited to:
+- Selling the software or its source code.
+- Including the software in a paid product or service.
+- Using the software to generate revenue (e.g., through integrated advertisements or subscriptions).
+- Using the software for business operations.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Any commercial use requires explicit, prior written permission from the copyright holder (ntuanvinh).
+
+3. ATTRIBUTION
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For commercial inquiries, please contact: https://github.com/ntuanvinh
