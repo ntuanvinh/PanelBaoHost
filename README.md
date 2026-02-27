@@ -43,7 +43,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📜 License & Copyright
 
-Copyright © 2026 **ntuanvinh**. All rights reserved.
+Copyright © 2024-2026 **ntuanvinh**. All rights reserved.
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
-*Note: Please contact the author if you intend to use this project for commercial purposes.*
+🚫 **COMMERCIAL USE PROHIBITED**
+This project is licensed under a custom **Non-Commercial License**. You are free to use, study, and modify this project for **personal and educational use only**. 
+
+**Redistribution or use for profit/business purposes is strictly forbidden** without the author's written consent.
+
+See the [LICENSE](LICENSE) file for full legal terms.
