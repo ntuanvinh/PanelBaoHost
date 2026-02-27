@@ -1,25 +1,24 @@
-CUSTOM NON-COMMERCIAL LICENSE
-Project: Panel BaoHost
-Copyright (c) 2024-2026 ntuanvinh
+NON-COMMERCIAL CREATIVE LICENSE (NC-CL)
+Project: Panel BaoHost Android pakage
+Copyright (c) 2026 ntuanvinh
 
-1. PERMISSION AND SCOPE
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to view, download, study, and modify the Software for PERSONAL AND EDUCATIONAL PURPOSES ONLY.
+1. GRANT OF LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software WITHOUT RESTRICTION, including without limitation the rights to use, copy, modify, merge, publish, distribute, and sublicense copies of the Software, SUBJECT TO THE FOLLOWING CONDITIONS:
 
-2. COMMERCIAL RESTRICTIONS
-The Software, including its source code, assets, and compiled binaries (APK), may NOT be used, copied, modified, merged, published, distributed, sublicensed, or sold for COMMERCIAL PURPOSES. 
+2. NON-COMMERCIAL RESTRICTION
+The Software and any derivative works (modified versions) MAY NOT be used for any commercial purposes or financial gain. 
 
-Commercial purposes include, but are not limited to:
-- Selling the software or its source code.
-- Including the software in a paid product or service.
-- Using the software to generate revenue (e.g., through integrated advertisements or subscriptions).
-- Using the software for business operations.
-
-Any commercial use requires explicit, prior written permission from the copyright holder (ntuanvinh).
+Prohibited commercial uses include, but are not limited to:
+- Selling or renting the Software or its source code.
+- Using the Software as a service (SaaS) for a fee.
+- Distributing the Software with integrated advertisements or paywalls.
+- Using the Software for enterprise or business operations.
 
 3. ATTRIBUTION
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 4. NO WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For commercial inquiries, please contact: https://github.com/ntuanvinh
+Any use outside of these terms requires prior written permission from the author.
+Contact: https://github.com/ntuanvinh
