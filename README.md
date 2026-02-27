@@ -9,7 +9,7 @@
 
 ## ✨ Key Features
 
-- 🚀 **Intuitive Dashboard:** Easily manage and monitor your hosting services on the go.
+- 🚀 **Intuitive Dashboard:** Easily manage and monitor your BaoHost services on the go.
 - 🤖 **AI-Assisted Development:** Optimized code structures and logic powered by Gemini AI.
 - ⚡ **Modern Stack:** Built with Kotlin and the latest Android Gradle plugins for maximum stability.
 
