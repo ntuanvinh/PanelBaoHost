@@ -43,11 +43,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📜 License & Copyright
 
-Copyright © 2026 **ntuanvinh**. All rights reserved.
+Copyright © 2024-2026 **ntuanvinh**. All rights reserved.
 
-🚫 **COMMERCIAL USE PROHIBITED**
-This project is licensed under a custom **Non-Commercial License**. You are free to use, study, and modify this project for **personal and educational use only**. 
+✅ **Allowed:** You are free to use, copy, modify, merge, and distribute this software for any personal or educational purpose.
+🚫 **Prohibited:** You are **NOT** allowed to use this software or any modified versions for commercial purposes, sales, or any form of financial gain.
 
-**Redistribution or use for profit/business purposes is strictly forbidden** without the author's written consent.
-
-See the [LICENSE](LICENSE) file for full legal terms.
+For full legal details, please refer to the [LICENSE](LICENSE) file.
